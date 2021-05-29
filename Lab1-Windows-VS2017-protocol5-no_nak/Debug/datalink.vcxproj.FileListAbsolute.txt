@@ -1,0 +1,2 @@
+F:\4大二课程(下)\计算机网络\第一次实验\Lab1-2018(Win+Linux)\Lab1-Windows-VS2017\Debug\datalink.exe
+F:\4大二课程(下)\计算机网络\第一次实验\Lab1-Windows-VS2017-protocol5 - no_nak\Debug\datalink.exe
